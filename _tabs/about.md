@@ -5,7 +5,7 @@ order: 4
 ---
 ## Summary
 
-I am an IIT Kharagpur mechanical engineering graduate, currently working as a Team Lead/Consultant at [Accenture Japan](https://www.accenture.com/jp-ja). I have spearheaded multiple software engineering projects across various clients. I possess experience in a wide range of programming languages and technologies. I actively develops personal projects during my free time.
+I am an IIT Kharagpur mechanical engineering graduate, currently working as a Team Lead/Consultant at [Accenture Japan](https://www.accenture.com/jp-ja). I have spearheaded multiple software engineering projects across various clients. I possess experience in a wide range of programming languages and technologies. I actively develop personal projects during my free time.
 
 ## Education
 
