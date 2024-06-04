@@ -14,7 +14,7 @@ I am an IIT Kharagpur mechanical engineering graduate, currently working as a Te
 
 ## Work Experience
 
-### 1. [Accenture Japan](https://www.accenture.com/jp-ja), Team Lead/Consultant (January 2021 - Present)
+### [Accenture Japan](https://www.accenture.com/jp-ja), Team Lead/Consultant (January 2021 - Present)
 
 #### Client: Accenture Internal
 
