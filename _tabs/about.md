@@ -19,8 +19,10 @@ I am an IIT Kharagpur mechanical engineering graduate, currently working as a Te
 ## Skills
 
 - **Programming Languages**: Go, Python, Java, Scala, Javascript(Nodejs), Cobol, Mainframe Assembler, HTML/CSS, Bash shell
-- **CI/CD Tools**: Docker, Kubernetes, GCP (cloud), Docker swarm, GoCD, Spinnaker
-- **Relevant Technologies**: SQL, Elasticsearch/Kibana, Apache Kafka, Cassandra, Linux, GNU core utils
+- **Databases**: SQL, PostgreSQL, Elasticsearch/Kibana, Cassandra
+- **Platform**: Kubernetes, Docker, Docker swarm, Linux
+- **CI/CD Tools**: GoCD, Spinnaker
+- **Other**: GCP (Public cloud), Springboot, Apache Kafka, GNU core utils
 
 ## Personal Projects
 
